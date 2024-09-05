@@ -17,8 +17,11 @@
     1.13 软件支持使用代理IP池，每条查询单独是代理IP，最大程度避免限制频率的项目被限制
     1.14 支持筛选导出，可导出表格和txt
 2.代理IP设置
-    2.1 支持设置代理IP![IMG_3401](https://github.com/user-attachments/assets/f1041661-d259-49d3-813e-80cabf24b229)
-![IMG_3400](https://github.com/user-attachments/assets/c27006d2-6b46-4a98-9418-d87b77add8f5)
-![IMG_3399](https://github.com/user-attachments/assets/82a4c271-43bd-46a0-8765-48a58b2e7bcf)
-![IMG_3398](https://github.com/user-attachments/assets/c27b8a81-1904-4d2e-afef-fc8f4e66df76)
-![IMG_3397](https://github.com/user-attachments/assets/1c1fddab-14cc-45e1-beed-da61b8624fcd)
+    2.1 支持设置代理IP!
+
+    ![IMG_3401](https://github.com/user-attachments/assets/4da8d868-dcc1-4387-87a4-47dfef0f3754)
+![IMG_3400](https://github.com/user-attachments/assets/92dc3434-ceec-4ba1-8fe4-44ebb35f1b3b)
+![IMG_3399](https://github.com/user-attachments/assets/d1691a24-4f22-45e0-9c97-a1cd039ce2b2)
+![IMG_3398](https://github.com/user-attachments/assets/03440375-dcc3-4fcf-8f81-a8fedfc9b20a)
+![IMG_3397](https://github.com/user-attachments/assets/efadc120-7813-4ed6-abfa-9c1c8773862f)
+
