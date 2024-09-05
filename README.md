@@ -18,9 +18,7 @@
     1.14 支持筛选导出，可导出表格和txt
 2.代理IP设置
     2.1 支持设置代理IP
-![IMG_3400](https://github.com/user-attachments/assets/c00b7bce-4f2b-4515-9c9b-cfa9123552f7)
-![IMG_3399](https://github.com/user-attachments/assets/44ea1c1c-59f0-439f-81f7-1b2d8d042753)
-![IMG_3398](https://github.com/user-attachments/assets/b97672d5-350b-4381-98df-3ed2ddc18ab5)
-![IMG_3397](https://github.com/user-attachments/assets/dc7b6030-fc43-4934-b86f-601d2ec7ba0e)
-
-
+![IMG_3397](https://github.com/user-attachments/assets/1a26c4a2-8a34-44a5-bce1-866626383c5e)
+![IMG_3398](https://github.com/user-attachments/assets/fd0d5948-3e2e-4438-a634-5b4c577a6195)
+![IMG_3399](https://github.com/user-attachments/assets/7f2fe3fc-4276-46c7-a23f-bc5f0d8cebc1)
+![IMG_3400](https://github.com/user-attachments/assets/19f37e68-c088-44d9-a411-52b9190b463a)
